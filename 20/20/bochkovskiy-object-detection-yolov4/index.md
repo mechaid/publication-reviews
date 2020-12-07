@@ -1,6 +1,11 @@
 ---
-title: YOLOv4: Optimal Speed and Accuracy of Object Detection
+title: YOLOv4 Untuk Deteksi Objek Dengan Akurasi dan Kecepatan Optimal
+layout: reviews-index
 author: [Alexey Bochkovskiy, Chien-Yao Wang, Hong-Yuan Mark Liao]
+description: Ulasan paper YOLOv4 dari Alexey Bochkovskiy
+course-parent: Reviews
+course-parent-url: ../../../
+tags: [yolov4, yolo, object-detection]
 ---
 
 ## Outline
