@@ -2,12 +2,6 @@
 title: Publication Reviews
 ---
 
-## EEG
-
-## NLP
-- [2021 - Abstract Meaning Representation Guided Graph Encoding and Decoding
-for Joint Information Extraction](/publication-reviews/20/21/abstract-meaning-representation-guided-graph-encoding-and-decoding-for-joint-information-extraction/)
-
 ## List Jurnal Terkait
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 - [International Journal of Computer Vision](https://link.springer.com/journal/11263)
@@ -46,3 +40,11 @@ for Joint Information Extraction](/publication-reviews/20/21/abstract-meaning-re
 - [Fuzzy Optimization and Decision Making](https://link.springer.com/journal/volumesAndIssues/10700)
 - [Journal of Machine Learning Research](http://www.jmlr.org/papers/v18/)
 - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications/issues)
+
+## Review
+
+### EEG
+
+### NLP
+- [2021 - Abstract Meaning Representation Guided Graph Encoding and Decoding
+for Joint Information Extraction](/publication-reviews/20/21/abstract-meaning-representation-guided-graph-encoding-and-decoding-for-joint-information-extraction/)
